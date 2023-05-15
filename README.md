@@ -2,10 +2,11 @@
     
   <div id="badges">
     <h1><b>GHULAM RASOOL (Full Stack Developer)</b></h1>
-    <a href="https://www.linkedin.com/in/ghulam-rasool-full-stack-php-developer/">
-      <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
-    </a>
-  </div>
+    
+[![Linkedin Badge](https://img.shields.io/badge/-imgrasooldev-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/ghulam-rasool-full-stack-php-developer/) 
+[![Gmail Badge](https://img.shields.io/badge/-imgrasool-white?style=flat&logo=Gmail&logoColor=red)](imgrasool@gmail.com)
+
+</div>
 </div>
 
 ### Hi there 👋,
