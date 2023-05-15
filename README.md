@@ -4,7 +4,7 @@
     <h1><b>GHULAM RASOOL (Full Stack Developer)</b></h1>
     
 [![Linkedin Badge](https://img.shields.io/badge/-imgrasooldev-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/ghulam-rasool-full-stack-php-developer/) 
-[![Gmail Badge](https://img.shields.io/badge/-imgrasool-white?style=flat&logo=Gmail&logoColor=red)]([imgrasool@gmail.com](https://mail.google.com/mail/?view=cm&fs=1&tf=1&to=imgrasool@gmail.com)
+[![Gmail Badge](https://img.shields.io/badge/-imgrasool-white?style=flat&logo=Gmail&logoColor=red)](https://mail.google.com/mail/?view=cm&fs=1&tf=1&to=imgrasool@gmail.com)
 
 </div>
 </div>
@@ -45,7 +45,7 @@
 
  :mailbox: How to reach me: 
   [![Linkedin Badge](https://img.shields.io/badge/-imgrasooldev-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/ghulam-rasool-full-stack-php-developer/) 
-  [![Gmail Badge](https://img.shields.io/badge/-imgrasool-white?style=flat&logo=Gmail&logoColor=red)](https://mail.google.com/mail/?view=cm&fs=1&tf=1&to=imgrasool@gmail.com)
+[![Gmail Badge](https://img.shields.io/badge/-imgrasool-white?style=flat&logo=Gmail&logoColor=red)](https://mail.google.com/mail/?view=cm&fs=1&tf=1&to=imgrasool@gmail.com)
   
 Looking forward to making a positive impact in the PHP developer community!
   <br/>
