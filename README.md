@@ -4,7 +4,7 @@
     <h1><b>GHULAM RASOOL (Full Stack Developer)</b></h1>
     
 [![Linkedin Badge](https://img.shields.io/badge/-imgrasooldev-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/ghulam-rasool-full-stack-php-developer/) 
-[![Gmail Badge](https://img.shields.io/badge/-imgrasool-white?style=flat&logo=Gmail&logoColor=red)](imgrasool@gmail.com)
+[![Gmail Badge](https://img.shields.io/badge/-imgrasool-white?style=flat&logo=Gmail&logoColor=red)]([imgrasool@gmail.com](https://mail.google.com/mail/?view=cm&fs=1&tf=1&to=imgrasool@gmail.com)
 
 </div>
 </div>
@@ -45,7 +45,7 @@
 
  :mailbox: How to reach me: 
   [![Linkedin Badge](https://img.shields.io/badge/-imgrasooldev-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/ghulam-rasool-full-stack-php-developer/) 
-  [![Gmail Badge](https://img.shields.io/badge/-imgrasool-white?style=flat&logo=Gmail&logoColor=red)](imgrasool@gmail.com)
+  [![Gmail Badge](https://img.shields.io/badge/-imgrasool-white?style=flat&logo=Gmail&logoColor=red)](https://mail.google.com/mail/?view=cm&fs=1&tf=1&to=imgrasool@gmail.com)
   
 Looking forward to making a positive impact in the PHP developer community!
   <br/>
@@ -74,3 +74,13 @@ Looking forward to making a positive impact in the PHP developer community!
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/digitalocean/digitalocean-original.svg" title="Digital Ocean" alt="Digital Ocean" width="40" height="40"/>&nbsp;
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original-wordmark.svg" title="Git" alt="Git" width="40" height="40"/>&nbsp;
 </div>
+
+
+### :fire: My Stats :
+
+<img src="https://github-readme-stats.vercel.app/api?username=imgrasooldev&theme=codeSTACKr&show_icons=true" alt="GitHub Stats for imgrasooldev" width="700">
+
+<img src="http://github-readme-streak-stats.herokuapp.com?user=imgrasooldev&theme=neon-palenight&hide_border=true&border=DD1515)](https://git.io/streak-stats" alt="GitHub Stats for imgrasooldev" width="700">
+
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=imgrasooldev&layout=compact&theme=codeSTACKr" alt="GitHub Stats for imgrasooldev" width="700" height="200">
