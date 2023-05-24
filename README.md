@@ -64,7 +64,7 @@
   
   I'm always eager to explore new technologies and frameworks to enhance my skills and stay up-to-date with the latest industry trends.
 
-☁️ My skills extend to cloud platforms like AWS, where I have deployed and managed web applications, leveraging services like EC2, S3, and RDS. I'm also familiar with Digital Ocean for hosting and deployment.
+☁️ My skills extend to cloud platforms like AWS, where I have deployed and managed web applications, leveraging services like EC2, S3, and RDS also have good knowledge about SQS, SES. I'm also familiar with Digital Ocean for hosting and deployment.
 
 📚 I believe in continuous learning and enjoy sharing my knowledge through open-source contributions. You can find some of my projects and code samples on my GitHub repositories.
 
